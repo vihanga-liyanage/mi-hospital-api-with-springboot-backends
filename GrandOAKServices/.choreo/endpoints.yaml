@@ -4,4 +4,4 @@ endpoints:
 - name: GrandOakServices
   port: 9090
   type: REST
-  networkVisibility: Project
+  networkVisibility: Public
